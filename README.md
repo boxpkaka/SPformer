@@ -1,3 +1,3 @@
 # SPformer
-
-The code of SPformer will be opened after the paper being accepted by ICASSP 2024.
+## Abstract
+The code for SPformer will be released once the paper is accepted by ICASSP 2024.
